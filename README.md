@@ -6,46 +6,29 @@ KDU-SC Canteen is a PHP based e-Commerce website which include food ordering and
 
 ## Features
 
-###User (Student/Staff)
--Registration (OTP Verification)
--Login
--Browse food items
--Search for food item
--Purchasing items
- -Add to Cart
--E-Vaulet
--View previous orders
+### User (Student/Staff)
+- Registration (OTP Verification)
+- Login
+- Browse food items
+- Search for food item
+- Purchasing items
+ - Add to Cart
+- E-Vaulet
+- View previous orders
 
-###Admin
- -Registration
- -Login
- -View & Update orders (Pending & Completed)
- -View, Add, Update & Delete items
- -Customize Categories & Availabilities
- -Import user list (.csv/ .xlsx/ .xls/ .ods)
- -Update & Delete users
- -Add or Custormize package details
- -Update e-Vaulet of the users (Credits)
- -View details of the sales
- -Download Sales report
+### Admin
+- Registration
+- Login
+- View & Update orders (Pending & Completed)
+- View, Add, Update & Delete items
+- Customize Categories & Availabilities
+- Import user list (.csv/ .xlsx/ .xls/ .ods)
+- Update & Delete users
+- Add or Custormize package details
+- Update e-Vaulet of the users (Credits)
+- View details of the sales
+- Download Sales report
  
-## Features
-- Catalog management
-  - Product management
-  - Category management
-  - Attribute and attribute group
-  - Variant management
-  - Custom options
-  - Product layered navigation
-- Order management
-- Customer management
-  - Customer group
-  - Customer address
-  - Login, register and my account
-- Advanced coupon management
-- Online payment methods
-  - Stripe
-  - Paypal
   
 ## Demo
 
