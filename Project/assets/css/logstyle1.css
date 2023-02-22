@@ -1,0 +1,312 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    /* font-family: sans-serif; */
+    color: rgb(82, 81, 81);
+}
+
+.body {
+    font-size: 12px;
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(rgba(1, 5, 0, 0.726), rgba(0, 0, 0, 0.4)), url("../img/log/kdu.jpg");
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+
+.form-boxl {
+    top: 39px;
+    width: 380px;
+    height: 480px;
+    position: relative;
+    margin: 6% auto;
+    background-color: rgba(255, 255, 255, 0.884);
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.form-boxr {
+    width: 380px;
+    height: 680px;
+    position: relative;
+    margin: 1.2% auto;
+    background-color: rgba(255, 255, 255, 0.884);
+    padding: 5px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+    left: 100px;
+    top: 50px;
+    position: relative;
+    color: rgb(85, 85, 85);
+}
+
+.h11 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+    left: 45px;
+    top: 25px;
+    position: relative;
+    color: rgb(85, 85, 85);
+}
+
+.error {
+    font-size: 13px;
+    font-family: sans-serif;
+    color: rgb(186, 23, 58);
+    position: relative;
+    bottom: 15px;
+}
+
+.error-Reg {
+    font-size: 15px;
+    font-family: sans-serif;
+    color: rgb(186, 23, 58);
+    position: relative;
+    bottom: 25px;
+}
+
+.logo {
+    width: 150px;
+    height: 70px;
+    position: absolute;
+    top: -45px;
+    left: calc(50% - 78px);
+}
+
+.button-box {
+    width: 250px;
+    margin: 45px auto;
+    position: relative;
+    box-shadow: 0 0 20px 9px #fa551462;
+    border-radius: 30px;
+}
+
+.toggle-btn {
+    padding: 10px 30px;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    outline: none;
+    position: relative;
+}
+
+#btn {
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    background: linear-gradient(to right, #ff105f, #ffad06);
+    border-radius: 30px;
+    transition: .5s;
+}
+
+.input-group {
+    top: 170px;
+    left: 50px;
+    position: absolute;
+    width: 280px;
+    transition: .5s;
+}
+
+.input-groupr {
+    top: 160px;
+    position: absolute;
+    width: 280px;
+    transition: .5s;
+}
+
+.input-field {
+    width: 100%;
+    color: rgb(0, 0, 0);
+    padding: 10px 0;
+    margin: 5px 0;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 1px solid #999;
+    outline: none;
+    background: transparent;
+}
+
+.gen1 {
+    color: #999;
+    top: 10px;
+    position: relative;
+}
+
+.submit-btn {
+    width: 85%;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    background: linear-gradient(to right, #ff105f, #ffad06);
+    border: 0;
+    outline: none;
+    border-radius: 30px;
+}
+
+.reg-btn1 {
+    width: 85%;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    margin: 5px;
+    background: linear-gradient(to right, #ff105f, #ffad06);
+    border: 0;
+    outline: none;
+    border-radius: 30px;
+    position: relative;
+    left: 17px;
+    /* left: 62px; */
+}
+
+.regp {
+    width: 63%;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    background: linear-gradient(to right, #ff105f, #ffad06);
+    border: 0;
+    outline: none;
+    border-radius: 30px;
+    top: 345px;
+    left: -5px;
+    position: relative;
+}
+
+.check-box {
+    margin: 0px 10px 30px 0;
+    position: relative;
+    cursor: pointer;
+}
+
+.remPass {
+    position: relative;
+    top: 20%;
+}
+
+span {
+    color: rgb(75, 75, 75);
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+#RegL {
+    left: 450px;
+}
+
+#RegS {
+    left: 50px;
+}
+
+
+/* Show and hide Eye */
+
+.show-hide {
+    position: relative;
+    left: 260px;
+    bottom: 30px;
+}
+
+.show-hide i {
+    font-size: 19px;
+    cursor: pointer;
+}
+
+.show-hide i.hide:before {
+    /* unicode of eye */
+    content: '\f06e';
+}
+
+.show-hide1 {
+    position: relative;
+    left: 260px;
+    bottom: 30px;
+}
+
+.show-hide1 i {
+    font-size: 19px;
+    cursor: pointer;
+}
+
+.show-hide1 i.hide:before {
+    /* unicode of eye */
+    content: '\f06e';
+}
+
+
+/* password indicator */
+
+form .indicator {
+    height: 10px;
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    display: none;
+}
+
+form .indicator span {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background: lightgrey;
+    border-radius: 5px;
+}
+
+form .indicator span:nth-child(2) {
+    margin: 0 3px;
+}
+
+form .indicator span.active:before {
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.indicator span.weak:before {
+    background-color: #ff4757;
+}
+
+.indicator span.medium:before {
+    background-color: orange;
+}
+
+.indicator span.strong:before {
+    background-color: #23ad5c;
+}
+
+form .text {
+    font-size: 20px;
+    font-weight: 500;
+    display: none;
+    margin-bottom: -10px;
+}
+
+form .text.weak {
+    color: #ff4757;
+}
+
+form .text.medium {
+    color: orange;
+}
+
+form .text.strong {
+    color: #23ad5c;
+}
