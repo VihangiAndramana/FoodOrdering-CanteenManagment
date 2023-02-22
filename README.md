@@ -2,7 +2,7 @@
 
 ## Introduction
 
-KDU-SC Canteen is a PHP based e-Commerce website which include food ordering and canteen managment. It basically built with HTML,CSS,PHP and MySQL DB.
+KDU-SC Canteen is a PHP based e-Commerce website which include food ordering and canteen managment. It basically built with HTML, CSS, PHP and MySQL DB.
 
 ## Features
 
