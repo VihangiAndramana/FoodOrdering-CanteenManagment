@@ -35,8 +35,11 @@ KDU-SC Canteen is a PHP based e-Commerce website which include food ordering and
 Explore KDU-SC Canteen demo store.
 
 ### User Account Screenshots
+1
 ![Screenshot (624)](https://user-images.githubusercontent.com/89215792/220740320-0fdf65f9-56e2-4eec-9968-b2f76464bb83.png)
+2
 ![Screenshot (625)](https://user-images.githubusercontent.com/89215792/220740352-5f6f63c3-06d2-4697-9c2f-7c7a045cd2f3.png)
+3
 ![Screenshot (632)](https://user-images.githubusercontent.com/89215792/220740416-b016453a-567e-4ea8-8058-2eb36cc628fa.png)
 ![Screenshot (634)](https://user-images.githubusercontent.com/89215792/220740497-4aec43b8-3261-4229-8b1b-dc4c607769a4.png)
 ![Screenshot (635)](https://user-images.githubusercontent.com/89215792/220740517-e8291d67-55b6-4abf-87fc-e4479c2a8b0d.png)
