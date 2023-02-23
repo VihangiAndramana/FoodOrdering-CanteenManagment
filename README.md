@@ -68,13 +68,6 @@ Explore KDU-SC Canteen demo store.
 
 ![Screenshot (653)](https://user-images.githubusercontent.com/89215792/220741993-24b16170-9e65-4418-bcd3-3bbc1ffb90af.png)
 
-![Screenshot (657)](https://user-images.githubusercontent.com/89215792/220742013-41ad736b-1d05-4c9a-8569-052912e5bcbe.png)
-
-![Screenshot (658)](https://user-images.githubusercontent.com/89215792/220742016-25357a39-6718-4aa4-8660-f891a0e0b2dd.png)
-
-![Screenshot (659)](https://user-images.githubusercontent.com/89215792/220742018-458b6ade-c3ad-4c1f-903b-c7bbda46be36.png)
-
-![Screenshot (660)](https://user-images.githubusercontent.com/89215792/220742023-685e4b1a-9ed2-441d-b3b1-c85abb6f9fd5.png)
 
 ![Screenshot (663)](https://user-images.githubusercontent.com/89215792/220742185-5669b609-0126-4393-86be-e6239e849cd2.png)
 
